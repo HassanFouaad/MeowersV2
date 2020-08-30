@@ -1,0 +1,24 @@
+{
+  "name": "meowers",
+  "version": "1.0.0",
+  "description": "Social NetWork Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HassanFouaad/MeowersV2.git"
+  },
+  "keywords": [
+    "MERN",
+    "SOCIAL",
+    "APP"
+  ],
+  "author": "Hassan Fouad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HassanFouaad/MeowersV2/issues"
+  },
+  "homepage": "https://github.com/HassanFouaad/MeowersV2#readme"
+}
